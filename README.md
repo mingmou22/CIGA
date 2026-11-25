@@ -43,7 +43,7 @@ Setting `--learn_theta 0` reproduces the fixed-filter variant used in the ablati
 ## License
 
 This project is released for academic research purposes only.
-<img width="2310" height="568" alt="4c5e63aa-0803-4d57-8b22-4404142b668f" src="https://github.com/user-attachments/assets/10a24b63-095d-416a-a9b8-e9b21893923e" />
+
 <img width="2012" height="466" alt="image" src="https://github.com/user-attachments/assets/b78ccfd4-5b34-4987-937d-b97e2463c0c4" />
 
 
