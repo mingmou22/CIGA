@@ -1,7 +1,7 @@
-# MAA
-# Meta-Adversarial Attacks (MAA)
 
-Official implementation of **"Meta-Adversarial Attacks: Exploiting the Shared Vulnerabilities of Vision Models"**.
+CIGA
+
+Official implementation of **"CIGA"**.
 
 MAA generates adversarial examples **without any target-specific information** — no queries to the victim model, no surrogate model. Perturbations are synthesized in the HSV color space under the guidance of a target image, allocated over a spatial patch graph via betweenness centrality, and propagated by a Chebyshev spectral graph filter whose per-order weights are **optimized per instance**, jointly with the perturbation.
 
